@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DPC6Desktop/DPC6Desktop.csproj" />
+  <Project Path="DPC6Desktop.Tests/DPC6Desktop.Tests.csproj" />
+</Solution>
